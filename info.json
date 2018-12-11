@@ -1,0 +1,14 @@
+{
+	"window_title":"engine",
+	"render_width":"1000",
+	"render_height":"1000",
+	"initial_menu":"main_menu",
+	
+	"default_options":
+	{
+		"window_width":1000,
+		"window_height:1000,
+		"window_mode":"placeholder"
+	}
+
+}
